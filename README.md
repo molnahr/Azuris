@@ -21,4 +21,4 @@ Furthermore the basic goals are the similar as the usual games, such as exciting
 improving brain functionalities and memorie...
 
 
-You can read more here: Azuris documentation.pdf
+You can read more here: https://github.com/molnahr/Azuris/blob/f3e20537af7364977c62bc7d5c1ad06e77c794c4/Azuris%20documentation.pdf
