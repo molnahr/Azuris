@@ -19,3 +19,6 @@ world like he would be the character at Hogwarts in Harry Potter. The target wou
 give an experience where the user could create the spell’s conjuring motion.
 Furthermore the basic goals are the similar as the usual games, such as exciting, 
 improving brain functionalities and memorie...
+
+
+You can read more here: Azuris documentation.pdf
